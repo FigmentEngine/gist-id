@@ -1,9 +1,15 @@
 # Education
 
-## KTH Royal Institute of Technology
-- Start: 2013
-- End: 2017
-- Qualification: MSc Computer Science
-- Field: Distributed Systems
+## Nottingham Trent University
+- Start: 1990
+- End: 1993
+- Qualification: HND
+- Field: Computer Studies
 
-Thesis on consensus protocols in partially-synchronous networks.
+Dissertation project was a neural networks to model and predict the FTSE 100 share index. This included extensive use of graphic modelling techniques and Visual Basic.
+
+## Croydon College of Further Education
+- Start: 1987
+- End: 1989
+- Qualification: BTEC OND
+- Field: Engineering (Electrical, Electronic and Mechanical)

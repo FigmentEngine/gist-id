@@ -2,18 +2,10 @@
 
 ## Languages
 - Rust (since 2018)
-- Python (since 2012)
-- Go (since 2019)
-- TypeScript
+- Javascript (since 1998)
+- C/C++/Visual Basic
 
-## Distributed Systems
-- Tokio
-- Apache Kafka
-- Raft (implemented)
-- gRPC
-
-## Observability
-- OpenTelemetry
-- Prometheus
-- Grafana
-- Loki
+## Data
+- XML/XSLT (since 2001)
+- XQuery/RDF/Sparql/SHACL
+- SQL
