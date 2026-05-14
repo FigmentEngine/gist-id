@@ -1,4 +1,4 @@
-# Fitz 🦀
+# "_Fitz_" 🦀 (Philip Fitzsimons)
 
 Engineering with ownership - in systems, culture, and execution.
 
