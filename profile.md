@@ -2,7 +2,7 @@
 Engineering with ownership - in systems, culture, and execution.
 - Location: London, England, United Kingdom
 - GitHub: https://github.com/FigmentEngine
-- LinkedIn: https://linkedin.com/in/pfitzsimons
+- LinkedIn: https://www.linkedin.com/in/philipfitzsimons/
 
 ## About
 
