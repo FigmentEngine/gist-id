@@ -6,6 +6,10 @@
 - C/C++/Visual Basic
 
 ## Data
-- XML/XSLT (since 2001)
-- XQuery/RDF/Sparql/SHACL
 - SQL
+- XML
+- XSLT
+- XQuery
+- RDF
+- Sparql
+- SHACL
