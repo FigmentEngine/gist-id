@@ -7,7 +7,7 @@
 - End: present
 - Location: Greater London
 
-Advisory work: technology and business strategy reviews, modernization, cloud adoption, transformation, SDLC, and security. Hands-on Rust development: systems tooling, formal verification approaches, and geospatial data processing at scale.
+Advisory work on technology and business strategy reviews, modernisation, cloud adoption, ML, SDLC, and security. Hands-on Rust development and ML engineering.
 
 ## Oxa
 
@@ -16,13 +16,13 @@ Advisory work: technology and business strategy reviews, modernization, cloud ad
 - End: 2026-01
 - Location: Oxford, England, United Kingdom
 
-Office of the CEO, focused on business strategy and execution through to technology. Support leadership on business planning and operational excellence. Manage CIO function, driving modernisation of on-premises networking, technical support systems and employee experience improvements.
+Office of the CEO, focused on business strategy and execution through to technology. Led on IT modernisation (owned CIO function), ML-native transformation and novelty-driven data reduction. Shared executive go/no-go on AV deployments. Supported two fundraising rounds, including Series D with National Wealth Fund as lead investor.
 
 ### Head of cloud
 - Start: 2022-02
 - End: 2023-06
 
-Completed business review, delivering transformation from on-premise to cloud-native. Resulted in reduced iteration cycles, establishment of data lakehouse and acceleration of ML. Selected new preferred cloud supplier through analysis of projected business expenditure, capability requirements and vendor assessment. Completed organisational upskilling in cloud technologies and managed full migration of existing on-premises infrastructure to cloud environments.
+Completed business review, then led transformation from on-premises to cloud-native with new cloud vendor. Established the platform team (DevOps, DevX, cyber, build, observability).
 
 ## JPMorgan Chase & Co.
 
@@ -31,7 +31,7 @@ Completed business review, delivering transformation from on-premise to cloud-na
 - End: 2021-04
 - Location: London, England, United Kingdom
 
-Conducted six-month review of payment systems architecture as critical infrastructure, evaluating alignment between business objectives and cloud implementation. Delivered technical assessment of existing payment infrastructure with recommendations for risk mitigation and performance optimisation. Developed technical strategy that embedded regulatory compliance into architectural requirements, testing frameworks and automated validation processes, addressing divergent global standards such as GDPR and CCPA.
+Conducted six-month review of payment systems architecture, evaluating alignment between business objectives and cloud implementation. Delivered report on changes to ways of working, SDLC and architecture.
 
 ## Amazon Web Services
 
@@ -40,28 +40,24 @@ Conducted six-month review of payment systems architecture as critical infrastru
 - End: 2019-12
 - Location: London, United Kingdom
 
-I led the AWS Well-Architected team, which was responsible for answering the question from the CEO of AWS: "How do we help our customers be well-architected?". I owned and defined the strategy, roadmap and execution of AWS Well-Architected (WA). Knowing that architecture reflects organizational structures and geographic culture, I built the WA team spanning the globe - recruiting high-caliber individuals, including subject-matter experts, as well as building multiple engineering teams.  Applied Lean methodologies such as Kaizen to create and maintain a framework that reflects the very dynamic AWS offerings, as well as emergent best practices. We launched a partner program that trained, certified and managed hundreds of APN Partners on how to improve customers architectures. I co-invented a patented approach to reviewing architectures, and we built and launched an AWS Service, the “AWS Well-Architected Tool", that allowed customers to understand and address the risks in their architectures.   Through AWS Well-Architected, tens of thousands of customer's architectures have been reviewed, and improved. Our answer to the original question showed that a magnitude more issues were recognized and addressed by customers, than would happen organically.
+Global lead for AWS Well-Architected (WA), managing product engineering and GTM. I co-authored Well-Architected, and owned the strategy, roadmap and execution. We built and launched an AWS service, the "AWS Well-Architected Tool", that allowed customers to understand and address the risks in their architectures. Created training that enabled customers and partners (APN) to become certified in WA. Patented the review approach, with WA becoming an industry standard.
 
 ### Head of Solutions Architecture, Amazon Web Services UK Ltd (AWS)
 - Start: 2015-04
 - End: 2016-09
 - Location: London, United Kingdom
 
-Leading the Solutions Architecture team for UK & Ireland, working with customers to help them adopt AWS and how it can help transform their business capabilities.
+Led the Solutions Architecture team for UK & Ireland, manager of managers, doubled team size, co-led the UK&I business for six months.
 
 ### Manager, Solutions Architecture, Amazon Web Services UK Ltd (AWS)
 - Start: 2013-02
 - End: 2015-04
 - Location: London, United Kingdom
 
-Leading a team of Solution Architects working with customers across multiple sectors. Our role is to ensure customers have a good experience using and adopting the cloud (AWS). Providing architectural guidance and best practice to customers in Broadcasting, Media, Publishing, Advertising, Finance, Energy & Utilities, Telecoms, Retail, Gaming, Entertainment & Leisure.
-
 ### Solutions Architect, Amazon Web Services UK Ltd (AWS)
 - Start: 2011-10
 - End: 2013-02
 - Location: London, United Kingdom
-
-Working with customers to deliver their architecture on the AWS platform (EC2, S3, etc) by providing architectural advice, technical product knowledge and technical reviews.  Helping customers understand cloud best practice, new innovations and feeding back customer needs and concerns to product teams to drive the AWS roadmap.
 
 ## RELX
 
@@ -69,7 +65,7 @@ Working with customers to deliver their architecture on the AWS platform (EC2, S
 - Start: 2009-02
 - End: 2011-08
 
-Managing team of architects across UK and the Netherlands, for this publisher (Elsevier, LexisNexis, etc). Delivery of platform for high traffic websites/apps with high availability/performance architectures. Core platforms included content management systems, media management and content delivery.
+Managed team of architects across UK and the Netherlands, for this publisher (Elsevier, LexisNexis). Delivery of platform for high-traffic websites/apps with high availability/performance architectures and migration of two datacentres to AWS.
 
 ## BSI British Standards
 
@@ -77,23 +73,23 @@ Managing team of architects across UK and the Netherlands, for this publisher (E
 - Start: 2008-03
 - End: 2008-08
 
-British Standards is the National Standards Body for the United Kingdom. As Technical Architect I was responsible for defining the technical roadmap, strategic planning, technology selection and designing system architecture. The main project was the creation of a web based publishing platform using native XML database systems (Mark Logic) with XQuery and C#/IIS.  Technology used: C#, XML, XQuery, MarkLogic, ASP.Net
+British Standards is the National Standards Body for the United Kingdom. Designing system architecture for holding standards and updates in an XML database.
 
 ## Tixel Limited
 
-### Technical Lead
+### Founder
 - Start: 2002
 - End: 2007
 
-Founded company based on the premise that we could improve the quality of medicines information for consumers. We worked with industry and the public to research and design a new form of medicines information, the "Medicine Guide". The outcome being this information was the medicines information part of the NHS website (www.nhs.uk/medicine-guides) for a number of years. To achieve this we had to design editorial, informatics and quality control processes and also recruit medics and build systems to author and publish the information.  The project was informatics driven, with focus on user experience, accessibility and search engine optimization. Working with multiple stakeholders the initiative was delivered on time and budget, with a handover period & documentation. I implemented all systems including a content creation system with a Windows Forms UI to ensure speed of authoring. A quality control website and an API for managing and displaying documents ensured correct presentation on the public website. Tech: C#/.Net/XML/XSLT/JavaScript/MS SQL/ASP.Net/WinForms Click-Once
+Founded company to research and improve the quality of medicines information for consumers. Designed a new form of medicines information, the "Medicine Guides". The outcome being this information was the medicines information part of the NHS website for a number of years. Ontology-based content management, with evidence chains back to regulatory information.
 
 ## VHN Ltd
 
-### Technical Architect
+### Founder
 - Start: 1998
 - End: 2002
 
-Founded company and won a contract to create a medical reference website for healthcare professionals. This was funded by the association of pharmaceutical companies, and involved consultation with US & EU regulatory bodies on similar projects.  Constructed an XML based solution that moved the pharmaceutical industry from a once-a-year manual book production processes to a web-based system with automatic conversion of word documents.  This reduced costs and errors in book production. The delivery of a web-site & CD-ROM also increased the speed-to-market of changes, and enabled a larger audience. This approach was then applied to other publications.  Responsible for information architecture, search engine optimization and user profiling. Set best-practice, acted as TDA and mentored junior members of staff. Tech: C#/MS SQL/XML/XSLT/ASPX & JavaScript/Apache/Oracle/Perl/Java
+Founded company for UK medical reference website for healthcare professionals (eMC, electronic Medicines Compendium). Funded by the ABPI, and involved consultation with US & EU regulatory bodies. Moved from proprietary markup to XML for book, CD and website delivery.
 
 ## Claritas Europe Group
 
@@ -101,7 +97,7 @@ Founded company and won a contract to create a medical reference website for hea
 - Start: 1994
 - End: 1998
 
-At this direct marketing company responsibilities were for system design, software standards and strategy. Gained very strong skills around data, RDBMS, data modelling and integration. Presented to the board on many technical areas, including moving to data dictionary based systems.  Moved the company’s core systems from a mainframe platform to 3-Tier architecture (Windows/Unix) reducing costs and increasing flexibility. Lead on projects such as: a real-time user profiling system (40mil  records), parsers for domain specific languages (DSLs), interactive analysis systems and work-flow systems. Integration between Windows & Unix systems was accomplished with RPC & COM+/DCOM. Tech: Windows-Unix/VB/C++/MS SQL/Sybase,introduced Windows NT
+Direct marketing company. Rewrote core systems from mainframe to Unix/Windows including a parser for a domain-specific language.
 
 ## Periodical Publishers Association
 
@@ -109,7 +105,7 @@ At this direct marketing company responsibilities were for system design, softwa
 - Start: 1993
 - End: 1994
 
-Association of Publishing companies. Redeveloped core systems, and migrated off a Novell network to Windows NT. Developed contact and process management systems in VB/MS Access.  Technology used: VB, Access
+Association of publishing companies. Developed contact and process management systems.
 
 ## Rig Design Services
 
@@ -117,4 +113,4 @@ Association of Publishing companies. Redeveloped core systems, and migrated off 
 - Start: 1991
 - End: 1993
 
-Initially a secondment during HND, then a full time position afterwards. Major developments were the design and development of a CAD based document management system, and an Oil Rig prototyping system in C and Visual Basic (VB).  Technology used: VB, C
+Secondment during university, then a full-time position afterwards. Built CAD document management system, and an oil rig prototyping system.
